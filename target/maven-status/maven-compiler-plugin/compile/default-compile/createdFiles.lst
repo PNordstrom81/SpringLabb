@@ -1,0 +1,9 @@
+se\iths\springdemo\entities\Person.class
+se\iths\springdemo\controllers\PersonController.class
+se\iths\springdemo\repositories\PersonRepsitory.class
+se\iths\springdemo\dtos\PersonDto.class
+se\iths\springdemo\dtos\PersonEmail.class
+se\iths\springdemo\services\PersonService.class
+se\iths\springdemo\services\Service.class
+se\iths\springdemo\SpringdemoApplication.class
+se\iths\springdemo\mappers\PersonMapper.class
